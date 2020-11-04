@@ -23,4 +23,8 @@ class MainActivity : AppCompatActivity() {
         val whatIs = Intent (this, WhatIsPicture::class.java)
         startActivity(whatIs)
     }
+    fun openNewGit(view: View) {
+        val newGit = Intent (this, ActivityGit::class.java)
+        startActivity(newGit)
+    }
 }
