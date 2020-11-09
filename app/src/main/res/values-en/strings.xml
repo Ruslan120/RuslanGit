@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="myName">Khvorostov Ruslan</string>
+    <string name="newYear">Happy New Year!</string>
+    <string name="Image">New year images</string>
+    <string name="aboutNewYear">About the New year</string>
+    <string name="NewYear">New year — the main calendar holiday that occurs at the moment of transition from the last day of the year to the first day of the next year. It is celebrated by many peoples in accordance with the accepted calendar. The beginning of the year on January 1 was established by the Roman ruler Julius Caesar in 46 BC. In Ancient Rome, this day was dedicated to Janus-the God of choice, doors and all beginnings. The month of January was named after the God Janus, who was depicted with two faces: one looking forward and the other looking back.
+Most countries celebrate the New year on January 1, the first day of the year in the Gregorian calendar. New years celebrations, taking into account the time zone, always begin in the Pacific ocean on the Islands of Kiribati. The last to see off the old year are the inhabitants of the midway Islands in the Pacific ocean. Some countries celebrate the new year according to the lunar calendar.
+Since January 1, the New year is celebrated for the first time in 153 BC, since this day the Roman consuls took office. In 46 BC, the Roman General and high priest Gaius Julius Caesar introduced his new calendar ("Julian") and finally approved the beginning of the year from January 1, 45 BC. It was under Caesar, under the influence of astrology, that The new year holiday acquired an independent meaning of the time mark of the beginning of the year and, thus, marked the beginning of the civil year.
+A variety of pyrotechnic items are actively used to celebrate the New year: firecrackers, sparklers and, in the last decade, fireworks, rockets, Roman candles, firecrackers large and small, etc.</string>
+    <string name="main">Main page</string>
+    <string name="whatIs">What kind of page is this???</string>
+    <string name="newActivity">New activity</string>
+    <string name="app_name">Ruslan pr5-6</string>
+
+</resources>

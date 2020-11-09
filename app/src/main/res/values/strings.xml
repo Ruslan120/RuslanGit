@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Ruslan</string>
+    <string name="app_name">Руслан пр5-6</string>
     <string name="myName">Хворостов Руслан</string>
     <string name="newYear">С новым годом!</string>
     <string name="Image">Новогодние картинки</string>
@@ -14,5 +14,7 @@
 	В настоящее время многие столицы мира или даже отдельные страны тратят миллионы долларов, чтобы устроить пиротехническое шоу на Новый год.
 	Использование пиротехнических изделий в большом количестве, в том числе несовершеннолетними, создаёт потенциально пожароопасную и травмоопасную ситуацию, поэтому новогодняя ночь считается наиболее напряжённым периодом года в работе противопожарных и спасательных служб.</string>
     <string name="main">Главная страница</string>
-    <string name="page">What is this page?</string>
+    <string name="page" translatable="false">What is this page?</string>
+    <string name="newActivity">Новая активность</string>
+
 </resources>
